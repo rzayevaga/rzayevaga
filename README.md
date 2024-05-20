@@ -14,7 +14,7 @@
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevaga&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/rzayevaga)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rzayevaga&theme=chartreuse-dark" alt="mystreak"/>
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rzayevaga)
 ![VİSİTOR 🙃](https://profile-counter.glitch.me/{rzayevaga}/count.svg)
