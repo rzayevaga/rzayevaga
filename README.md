@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/rzayevaga"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+Xoş+Gəldin+☺️+;..Mən+AĞA+Sizin+Fast+Developeriniz..." alt="aga">
+  <a href="https://github.com/rzayevaga"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+Xoş+Gəldin+☺️" alt="aga">
 </p>           
          
 
