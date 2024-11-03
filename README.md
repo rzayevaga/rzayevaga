@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="Profilime xos geldin!" src="https://github.com/rzayevaga/rzayevaga/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="Profilime xos geldin!" src="https://github.com/rzayevaga/rzayevaga/blob/ai-tech/assets/header.png"></div>
 
 
 
