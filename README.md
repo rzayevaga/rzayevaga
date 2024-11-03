@@ -17,7 +17,7 @@
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevaga&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/rzayevaga)
 
-<a href="http://s11.flagcounter.com/more/edI9"><img src="https://s11.flagcounter.com/map/edI9/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Izleyiciler/flags_0/" alt="izleyici" border="0"></a>
+<a href="https://github.com/rzayevaga"><img src="https://s11.flagcounter.com/map/edI9/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Izleyiciler/flags_0/" alt="izleyici" border="0"></a>
 
 ![](https://count.getloli.com/get/@rzayevaga.github.readme)
 </br>
