@@ -23,5 +23,8 @@
 </br>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=rzayevaga)
-![VİSİTOR 🙃](https://profile-counter.glitch.me/{rzayevaga}/count.svg)
+<p align="center">
+  <a href="https://github.com/rzayevaga"><img src="https://profile-counter.glitch.me/{rzayevaga}/count.svg" alt="aga">
+</p>           
+         
+
