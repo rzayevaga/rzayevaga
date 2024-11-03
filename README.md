@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="Profilime xos geldin!" src="https://github.com/venombolteop/venombolteop/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="Profilime xos geldin!" src="https://github.com/rzayevaga/rzayevaga/blob/main/assets/header.png"></div>
 
 
 
@@ -17,6 +17,10 @@
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevaga&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/rzayevaga)
 
+
+
+![](https://count.getloli.com/get/@venombolteop.github.readme)
+</br>
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rzayevaga)
