@@ -1,3 +1,8 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="Profilime xos geldin!" src="https://github.com/venombolteop/venombolteop/blob/main/assets/header.png"></div>
+
+
+
 <p align="center">
   <a href="https://github.com/rzayevaga"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+Xoş+Gəldin+☺️" alt="aga">
 </p>           
@@ -6,9 +11,7 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rzayevaga)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/rzayevaga)
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=rzayevaga&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
+![](https://github-stats-alpha.vercel.app/api/?username=rzayevaga&cc=000&tc=00ff00&ic=fff000&bc=fff)
  
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=rzayevaga&show_icons=true&theme=radical)
 
