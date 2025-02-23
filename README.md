@@ -2,6 +2,9 @@
 
 <h2 align="left">ⓘ Dark Intellengences ༱ 𝐖𝐄𝐁 ᴄᴏᴅɪɴɢ </> 🧑🏻‍💻 • $AFK</h2>
 
+<a href="https://github.com/rzayevaga"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=840000&center=true&random=true&width=435&lines=rzayeffdi;aiteknoloji+" alt="rzayeffdi" /></a>
+
+
 ###
 
 <div align="center">
@@ -16,8 +19,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -27,13 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@orexegame" target="_blank">
@@ -42,10 +36,10 @@
   <a href="https://www.instagram.com/rva.pg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="rzayevaga@ptoton.me" target="_blank">
+  <a href="agha@rzayeffdi.tech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https/t.me/codmastervip" target="_blank">
+  <a href="https/t.me/rzayevaga" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
@@ -54,6 +48,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rzayevaga/rzayevaga/output/snake.svg" alt="Snake animation" />
-
-###
