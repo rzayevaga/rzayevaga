@@ -1,7 +1,7 @@
 <!-- (CA) -->
 <br clear="both">
 
-<h2 align="center">⚡ Dark Intelligences ༱ 𝐖𝐄𝐁 ᴄᴏᴅɪɴɢ ⚡</h2>
+<h2 align="center">⚡ Dark Intelligences ༱ CoreDocs ⚡</h2>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff0000&center=true&vCenter=true&width=500&lines=Hello+World!;rzayeffdi;ai+%26+teknoloji;Dark+Intelligences+Project" alt="Typing SVG" />
 </p>
