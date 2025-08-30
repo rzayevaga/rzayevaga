@@ -1,4 +1,4 @@
-<!-- Profil Başlıq -->
+<!-- (CA) -->
 <br clear="both">
 
 <h2 align="center">⚡ Dark Intelligences ༱ 𝐖𝐄𝐁 ᴄᴏᴅɪɴɢ ⚡</h2>
@@ -60,7 +60,7 @@
 
 ---
 
-<!-- Digər Əlavələr -->
+<!-- Animasiya/Əyləncə -->
 <h3 align="center">🔥 Extra Fun 🔥</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
