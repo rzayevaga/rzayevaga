@@ -1,7 +1,11 @@
 <!-- (CA) -->
 <br clear="both">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:282a36,100:bd93f9&text=Agha%20Rzayeff&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=@lamvav%20Developer%20&%20Systems%20Analyst&section=header&animation=fadeIn&descAlignY=50" />
+</p>
 
-<h2 align="center">⚡ Dark Intelligences ༱ CoreDocs ⚡</h2>
+
+<h2 align="center">⚡ Dark Intelligences ༱ raicx ⚡</h2>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff0000&center=true&vCenter=true&width=500&lines=Hello+World!;rzayeffdi;ai+%26+teknoloji;Dark+Intelligences+Project" alt="Typing SVG" />
 </p>
@@ -11,8 +15,6 @@
 <!-- Profil Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzayevaga&theme=radical&hide_border=true" height="150" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rzayevaga&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzayevaga&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Langs" />
 </div>
 
 ---
@@ -64,10 +66,6 @@
 <h3 align="center">🔥 Extra Fun 🔥</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rzayevaga&theme=dracula&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
