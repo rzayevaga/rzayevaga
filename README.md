@@ -52,7 +52,7 @@
   <a href="https://x.com/rzayews" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://t.me/corediii" target="_blank">
+  <a href="https://t.me/raictx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/rzayevaga" target="_blank">
